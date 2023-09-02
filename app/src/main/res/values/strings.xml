@@ -10,4 +10,13 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">email</string>
+    <string name="address">address</string>
+    <string name="name">name</string>
+    <string name="title">title</string>
+    <string name="website">website</string>
+    <string name="done">done</string>
+    <string name="app_name"">form</string>
+
 </resources>
